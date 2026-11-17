@@ -1,0 +1,31 @@
+[
+  {
+    "away_b2b": "No",
+    "away_dark_horse": "Alex Newhook",
+    "away_goalie": "J. Fowler",
+    "away_goalie_gsaa": 12.08,
+    "away_goalscorer": "Cole Caufield",
+    "away_ml": -115,
+    "away_team": "Canadiens",
+    "confidence_tier": "Confident",
+    "finalized_at_unix": 1794875149,
+    "game_date": "2026-11-16",
+    "game_time_et": "7:30 PM EST",
+    "home_b2b": "No",
+    "home_dark_horse": "Mika Zibanejad",
+    "home_goalie": "J. Korpisalo",
+    "home_goalie_gsaa": 2.29,
+    "home_goalscorer": "Alexis Lafreni\u00e8re",
+    "home_ml": 104,
+    "home_team": "Rangers",
+    "is_pick_of_day": true,
+    "is_strong_favourite": true,
+    "is_underdog_pick": true,
+    "over_under": "Over 6.0",
+    "pick_odds": 104,
+    "pick_odds_type": "h2h",
+    "potd_reasoning": "Model edge | Model vs market | Opponent missing 1 key players",
+    "wp_pick": "Rangers moneyline",
+    "wp_pick_team": "Rangers"
+  }
+]
