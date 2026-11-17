@@ -1,0 +1,20 @@
+[
+  {
+    "away_score": 3,
+    "away_team": "Canucks",
+    "game_date": "2026-11-16",
+    "home_score": 2,
+    "home_team": "Mammoth",
+    "pick_result": "win",
+    "wp_pick": "Canucks +1.5"
+  },
+  {
+    "away_score": 1,
+    "away_team": "Canadiens",
+    "game_date": "2026-11-16",
+    "home_score": 3,
+    "home_team": "Rangers",
+    "pick_result": "win",
+    "wp_pick": "Rangers moneyline"
+  }
+]
