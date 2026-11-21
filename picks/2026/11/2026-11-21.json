@@ -1,0 +1,31 @@
+[
+  {
+    "away_b2b": "No",
+    "away_dark_horse": "Kasperi Kapanen",
+    "away_goalie": "D. Levi",
+    "away_goalie_gsaa": 3.55,
+    "away_goalscorer": "Connor McDavid",
+    "away_ml": 186,
+    "away_team": "Oilers",
+    "confidence_tier": "Confident",
+    "finalized_at_unix": 1795283753,
+    "game_date": "2026-11-21",
+    "game_time_et": "1:00 PM EST",
+    "home_b2b": "No",
+    "home_dark_horse": "Nikolaj Ehlers",
+    "home_goalie": "P. Kochetkov",
+    "home_goalie_gsaa": 8.16,
+    "home_goalscorer": "Andrei Svechnikov",
+    "home_ml": -209,
+    "home_team": "Hurricanes",
+    "is_pick_of_day": false,
+    "is_strong_favourite": false,
+    "is_underdog_pick": false,
+    "over_under": "Over 6.5",
+    "pick_odds": -209,
+    "pick_odds_type": "h2h",
+    "potd_reasoning": "",
+    "wp_pick": "Hurricanes moneyline",
+    "wp_pick_team": "Hurricanes"
+  }
+]
