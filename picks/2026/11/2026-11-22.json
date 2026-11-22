@@ -1,0 +1,31 @@
+[
+  {
+    "away_b2b": "Yes",
+    "away_dark_horse": "Logan Stankoven",
+    "away_goalie": "B. Bussi",
+    "away_goalie_gsaa": -3.36,
+    "away_goalscorer": "Andrei Svechnikov",
+    "away_ml": -157,
+    "away_team": "Hurricanes",
+    "confidence_tier": "Slight Lean",
+    "finalized_at_unix": 1795368350,
+    "game_date": "2026-11-22",
+    "game_time_et": "12:30 PM EST",
+    "home_b2b": "No",
+    "home_dark_horse": "Mika Zibanejad",
+    "home_goalie": "D. Garand",
+    "home_goalie_gsaa": 7.09,
+    "home_goalscorer": "Alexis Lafreni\u00e8re",
+    "home_ml": 141,
+    "home_team": "Rangers",
+    "is_pick_of_day": false,
+    "is_strong_favourite": false,
+    "is_underdog_pick": true,
+    "over_under": "Over 6.0",
+    "pick_odds": -183,
+    "pick_odds_type": "spread_+1.5",
+    "potd_reasoning": "",
+    "wp_pick": "Rangers +1.5",
+    "wp_pick_team": "Rangers"
+  }
+]
