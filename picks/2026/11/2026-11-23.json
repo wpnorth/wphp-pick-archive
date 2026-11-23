@@ -1,0 +1,31 @@
+[
+  {
+    "away_b2b": "No",
+    "away_dark_horse": "Mathieu Olivier",
+    "away_goalie": "C. Talbot",
+    "away_goalie_gsaa": 5.34,
+    "away_goalscorer": "Kent Johnson",
+    "away_ml": 173,
+    "away_team": "Blue Jackets",
+    "confidence_tier": "Slight Lean",
+    "finalized_at_unix": 1795478147,
+    "game_date": "2026-11-23",
+    "game_time_et": "7:00 PM EST",
+    "home_b2b": "No",
+    "home_dark_horse": "Arseny Gritsyuk",
+    "home_goalie": "C. Hellebuyck",
+    "home_goalie_gsaa": 1.58,
+    "home_goalscorer": "Jack Hughes",
+    "home_ml": -194,
+    "home_team": "Devils",
+    "is_pick_of_day": false,
+    "is_strong_favourite": false,
+    "is_underdog_pick": true,
+    "over_under": "Over 6.0",
+    "pick_odds": -143,
+    "pick_odds_type": "spread_+1.5",
+    "potd_reasoning": "",
+    "wp_pick": "Blue Jackets +1.5",
+    "wp_pick_team": "Blue Jackets"
+  }
+]
