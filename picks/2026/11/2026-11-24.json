@@ -1,0 +1,31 @@
+[
+  {
+    "away_b2b": "No",
+    "away_dark_horse": "Brett Howden",
+    "away_goalie": "C. Hart",
+    "away_goalie_gsaa": -1.6,
+    "away_goalscorer": "Mark Stone",
+    "away_ml": -119,
+    "away_team": "Golden Knights",
+    "confidence_tier": "Confident",
+    "finalized_at_unix": 1795568142,
+    "game_date": "2026-11-24",
+    "game_time_et": "8:00 PM EST",
+    "home_b2b": "No",
+    "home_dark_horse": "Kasperi Kapanen",
+    "home_goalie": "D. Levi",
+    "home_goalie_gsaa": 0.7,
+    "home_goalscorer": "Leon Draisaitl",
+    "home_ml": 108,
+    "home_team": "Oilers",
+    "is_pick_of_day": true,
+    "is_strong_favourite": false,
+    "is_underdog_pick": false,
+    "over_under": "Lean Under 6.5",
+    "pick_odds": -119,
+    "pick_odds_type": "h2h",
+    "potd_reasoning": "Model edge | Opponent missing 1 key players",
+    "wp_pick": "Golden Knights moneyline",
+    "wp_pick_team": "Golden Knights"
+  }
+]
