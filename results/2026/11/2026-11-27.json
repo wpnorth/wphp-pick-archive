@@ -1,0 +1,137 @@
+[
+  {
+    "away_score": 1,
+    "away_team": "Rangers",
+    "game_date": "2026-11-27",
+    "home_score": 2,
+    "home_team": "Blackhawks",
+    "pick_result": "loss",
+    "wp_pick": "Rangers moneyline"
+  },
+  {
+    "away_score": 2,
+    "away_team": "Red Wings",
+    "game_date": "2026-11-27",
+    "home_score": 0,
+    "home_team": "Blue Jackets",
+    "pick_result": "win",
+    "wp_pick": "Red Wings +1.5"
+  },
+  {
+    "away_score": 3,
+    "away_team": "Stars",
+    "game_date": "2026-11-27",
+    "home_score": 5,
+    "home_team": "Blues",
+    "pick_result": "loss",
+    "wp_pick": "Stars moneyline"
+  },
+  {
+    "away_score": 3,
+    "away_team": "Maple Leafs",
+    "game_date": "2026-11-27",
+    "home_score": 1,
+    "home_team": "Bruins",
+    "pick_result": "win",
+    "wp_pick": "Maple Leafs +1.5"
+  },
+  {
+    "away_score": 3,
+    "away_team": "Panthers",
+    "game_date": "2026-11-27",
+    "home_score": 2,
+    "home_team": "Capitals",
+    "pick_result": "win",
+    "wp_pick": "Panthers moneyline"
+  },
+  {
+    "away_score": 3,
+    "away_team": "Flames",
+    "game_date": "2026-11-27",
+    "home_score": 5,
+    "home_team": "Devils",
+    "pick_result": "win",
+    "wp_pick": "Devils moneyline"
+  },
+  {
+    "away_score": 5,
+    "away_team": "Kings",
+    "game_date": "2026-11-27",
+    "home_score": 3,
+    "home_team": "Ducks",
+    "pick_result": "win",
+    "wp_pick": "Kings moneyline"
+  },
+  {
+    "away_score": 2,
+    "away_team": "Canucks",
+    "game_date": "2026-11-27",
+    "home_score": 5,
+    "home_team": "Flyers",
+    "pick_result": "win",
+    "wp_pick": "Flyers moneyline"
+  },
+  {
+    "away_score": 3,
+    "away_team": "Jets",
+    "game_date": "2026-11-27",
+    "home_score": 1,
+    "home_team": "Islanders",
+    "pick_result": "win",
+    "wp_pick": "Jets +1.5"
+  },
+  {
+    "away_score": 6,
+    "away_team": "Senators",
+    "game_date": "2026-11-27",
+    "home_score": 2,
+    "home_team": "Lightning",
+    "pick_result": "win",
+    "wp_pick": "Senators moneyline"
+  },
+  {
+    "away_score": 4,
+    "away_team": "Kraken",
+    "game_date": "2026-11-27",
+    "home_score": 2,
+    "home_team": "Oilers",
+    "pick_result": "win",
+    "wp_pick": "Kraken moneyline"
+  },
+  {
+    "away_score": 6,
+    "away_team": "Mammoth",
+    "game_date": "2026-11-27",
+    "home_score": 5,
+    "home_team": "Predators",
+    "pick_result": "loss",
+    "wp_pick": "Predators moneyline"
+  },
+  {
+    "away_score": 6,
+    "away_team": "Penguins",
+    "game_date": "2026-11-27",
+    "home_score": 3,
+    "home_team": "Sabres",
+    "pick_result": "loss",
+    "wp_pick": "Sabres moneyline"
+  },
+  {
+    "away_score": 1,
+    "away_team": "Golden Knights",
+    "game_date": "2026-11-27",
+    "home_score": 4,
+    "home_team": "Sharks",
+    "pick_result": "loss",
+    "wp_pick": "Golden Knights moneyline"
+  },
+  {
+    "away_score": 4,
+    "away_team": "Avalanche",
+    "game_date": "2026-11-27",
+    "home_score": 3,
+    "home_team": "Wild",
+    "pick_result": "loss",
+    "wp_pick": "Wild moneyline"
+  }
+]
